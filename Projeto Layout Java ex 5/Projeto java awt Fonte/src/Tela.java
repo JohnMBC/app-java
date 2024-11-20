@@ -50,8 +50,4 @@ public class Tela extends JFrame {
 
         pack();
     }
-
-    public static void main(String[] args) {
-        new Tela().setVisible(true);
-    }
 }
